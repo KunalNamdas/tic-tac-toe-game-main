@@ -3,4 +3,4 @@ Play Tic Tac Toe online for free! Challenge friends in this modern twist on the 
 <br/>
 # Feel free to Modify this repo
 <br/>
-LINK - https://vivekmohanlohar.github.io/tic-tac-toe-game
+LINK - https://kunalnamdas.github.io/tic-tac-toe-game
